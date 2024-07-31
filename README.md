@@ -12,12 +12,12 @@ Use an evolutionary algorithm to minimize the risks and maximize the returns.
 
 Skills
 
-Data Visualization
-Evolutionary Algorithms 
+Data Visualization,
+Evolutionary Algorithms,
 Financial Optimization
 
 Technology 
 
-Pymoo
-Python 
+Pymoo,
+Python,
 Plotly.js
